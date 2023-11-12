@@ -1,10 +1,10 @@
 # CV 
 
 ### Main information:
-**Name:** Mitrovich Voiislav
-**Date of birth:** 28.03.1995
-**Specialization:** Front-end Developer (junior)
-**Location:** Lorca, Spain
+* **Name:** Mitrovich Voiislav
+* **Date of birth:** 28.03.1995
+* **Specialization:** Front-end Developer (junior)
+* **Location:** Lorca, Spain
 
 ### About me:
 I have embarked on a career transition to become a front-end developer, after my experience as a specialist in international logistics. This decision was motivated by my aspiration to achieve tangible results in my work that resonate with a broad audience. I possess strong communication skills, am adept at rapid learning, and at asking correct questions, both through research and in interactions with more experienced colleagues. 
