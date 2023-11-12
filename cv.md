@@ -12,12 +12,13 @@ I am looking forward to engaging with prospective employers and demonstrating my
 
 ### My skills:
 * HTML5
-* CSS3
+* CSS3 (Bootstrap, Tailwind)
 * JavaScript
 * React
 * Node.js
 * Webpack
 * REST API
+* BEM methodology
 
 ### My education:
 * Yandex.Practicum: Course «Web Developer» (in progress)
